@@ -9,13 +9,13 @@ To set up and run the project locally, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Re1435/hyggex-assignment.git
+   git clone https://github.com/Re1435/HyggeX-assignment.git
    ```
 
 2. **Navigate to the Project Directory**:
 
    ```bash
-   cd flashcard-application
+   cd hyggex-assignment
    ```
 
 3. **Install Dependencies**:
@@ -42,7 +42,7 @@ To set up and run the project locally, follow these steps:
 The project directory structure is as follows:
 
 ```
-hyggex-assignment/
+HyggeX-assignment/
 │
 ├── src/
 │   ├── components/
